@@ -30,3 +30,6 @@ Note: `WELCOME_MSG` and `WELCOME_NOT_JOINED` can both be formatted using paramet
 # Credits
 
 - [Me](https://t.me/pratheek06)
+
+# Telegram 
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/pratheek06)
